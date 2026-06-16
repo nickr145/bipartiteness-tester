@@ -9,4 +9,4 @@ Implementation of [Fei & Rubinfeld (2026)](https://arxiv.org/abs/2606.13583)
 - ~5min runtime (practical parameters)
 
 
-See [blog post](https://nrebello.vercel.app/writings/bip-test) for deep dive.
+Check out my writings for deep dive: https://nrebello.vercel.app/writings.
